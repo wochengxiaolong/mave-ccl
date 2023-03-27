@@ -4,8 +4,8 @@
   <artifactId>member-api</artifactId>
   <versioning>
     <versions>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20230327015902</lastUpdated>
+    <lastUpdated>20230327020211</lastUpdated>
   </versioning>
 </metadata>
